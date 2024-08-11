@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4AzKd7zu+I4=",
+  "dgSpecHash": "1J/7NcLZj10=",
   "success": true,
   "projectFilePath": "C:\\Users\\User\\source\\repos\\ServerAtteck\\ServerAtteck.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

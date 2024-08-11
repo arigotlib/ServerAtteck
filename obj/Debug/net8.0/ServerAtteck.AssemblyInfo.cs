@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServerAtteck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1600e4ae2de81757ba9b57c1f16cc16678fef38")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e4b2ad816872a58e3a994c0cdb3f809c9a0ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServerAtteck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServerAtteck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
